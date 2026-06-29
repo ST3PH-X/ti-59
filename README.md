@@ -1,18 +1,17 @@
 # 📟 Texas Instruments TI-59C Web Simulator
 
+<p align="left">
+  <a href="https://st3ph-x.github.io/ti-59/" target="_blank">
+    <img src="https://shields.io/badge/LIVE_DEMO-LAUNCH_APP-5d56ff?style=for-the-badge&logo=target&logoColor=white" alt="Live Demo">
+  </a>
+ <a href="https://github.com/ST3PH-X/ti-59/blob/main/LICENSE" target="_blank">
+    <img src="https://shields.io/badge/license-MIT-green?style=for-the-badge" alt="MIT License">
+  </a>
+</p>
+
 A premium, high-fidelity web-based emulator of the legendary **Texas Instruments TI-59** programmable calculator. This simulator faithfully reproduces the iconic look, weight, and feel of the original hardware—including its premium golden-register layout—while driving a precise mathematical processing engine beneath the hood.
 
 Developed as an open, modular academic research project, this emulator serves both as an educational tool and a nostalgic tribute to early programmable computing.
-
----
-
-## 🚀 Live Demo & Project Info
-
-[![Launch on GitHub Pages](https://shields.io)](https://web.app)
-[![License: MIT](https://shields.io)](https://opensource.org)
-
-* **Project Status:** Academic Research & Development
-* **Simulator Version:** 1.0.4 (Stable Math Build)
 
 ---
 
