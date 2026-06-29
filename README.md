@@ -27,7 +27,7 @@ This project is engineered entirely on the frontend for maximum portability, sub
 
 ## 📖 User Manual & Documentation
 
-<details>
+<details open >
 <summary><b>1. Introduction & Architectural Limitations (Turing Completeness)</b></summary>
 
 ### ⚠️ Critical Architectural Note
@@ -38,7 +38,7 @@ From a theoretical computer science perspective, this emulator is **not a Turing
 
 </details>
 
-<details open>
+<details>
 <summary><b>2. Implemented Core Functions Spec (Command List)</b></summary>
 
 The following core calculation and utility modules are fully operational in this stable build:
